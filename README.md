@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/actions.png" title="GitHub Actions" alt="GitHub Actions" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
 
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*WbiqssFUFU503RlNlFglNA.jpeg" title="Git" alt="Git" height="80" />
 </div>
 
 
